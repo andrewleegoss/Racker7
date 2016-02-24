@@ -2,3 +2,9 @@
 Add your custom css here. Do not touch on style-color-name.css files
 */
 
+.ceiling-list {
+    color: #666;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
