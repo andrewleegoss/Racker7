@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Dexp Orane feature.
+ */
+
+include_once 'dexp_orane.features.inc';
