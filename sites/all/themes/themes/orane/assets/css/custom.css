@@ -8,3 +8,11 @@ Add your custom css here. Do not touch on style-color-name.css files
     font-weight: 600;
     text-transform: uppercase;
 }
+
+.ceiling-list a:not(.btn){
+	color: #666;
+}
+
+.ceiling-list a:not(.btn):hover{
+	color: #2E71B3;
+}
