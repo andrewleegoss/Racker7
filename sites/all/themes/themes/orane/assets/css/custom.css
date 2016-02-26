@@ -44,6 +44,15 @@ Add your custom css here. Do not touch on style-color-name.css files
 	font-size: 30px;
 }
 
+.view-solutions .col-lg-2 {
+    width: 10%;
+    position: fixed;
+ 	top: 50%;
+ 	left: 50%;
+  /* bring your own prefixes */
+  	transform: translate(-50%, -50%);
+}
+
 .view-solutions .views-field-title{
 	width: 106px!important;
 	text-align: center!important;
@@ -65,6 +74,9 @@ Add your custom css here. Do not touch on style-color-name.css files
 	display:block;
 	margin: 0 auto;
 }
+
+
+
 
 
 
