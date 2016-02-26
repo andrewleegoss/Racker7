@@ -44,7 +44,14 @@ Add your custom css here. Do not touch on style-color-name.css files
 	font-size: 30px;
 }
 
-
+.view-solutions .views-field-title{
+	width: 106px!important;
+	text-align: center!important;
+	font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.4rem;
+    color: #4c4c4c;
+}
 
 
 
