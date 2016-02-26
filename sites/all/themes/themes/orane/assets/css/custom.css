@@ -75,8 +75,15 @@ Add your custom css here. Do not touch on style-color-name.css files
 	background: #f2f5f5;
 }
 
-
-
+.free-advice
+{
+	font-family: Montserrat, Helvetica, Arial, sans-serif; 
+	color: rgb(51, 51, 51); 
+	font-weight: 200; 
+	font-size: 30px;
+	text-align:center;
+	background: #f2f5f5;
+}
 
 
 #___gcse_1 {
