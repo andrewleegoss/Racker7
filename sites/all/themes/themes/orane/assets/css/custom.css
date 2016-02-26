@@ -42,12 +42,12 @@ Add your custom css here. Do not touch on style-color-name.css files
 	color: rgb(51, 51, 51); 
 	font-weight: 200; 
 	font-size: 30px;
-	font-align:center;
+	text-align:center;
 }
 
 .view-solutions .col-lg-2 {
     width: 10%;
- 	left: 5%;
+ 	left: 7.5%;
 }
 
 .view-solutions .views-field-title{
@@ -71,7 +71,9 @@ Add your custom css here. Do not touch on style-color-name.css files
 	margin: 0 auto;
 }
 
-.view-solutions {    background: #f2f5f5;}
+.view-solutions {    
+	background: #f2f5f5;
+}
 
 
 
