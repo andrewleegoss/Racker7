@@ -92,7 +92,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .view-newsevents .dexp-grid-item {
-	left:20%;
+	left:10%;
 }
 
 .view-newsevents .dexp-grid-item {
@@ -114,7 +114,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 	margin-bottom: 20px;
 }
 
-.view-newsevents .views-field-field-date {
+.view-newsevents .views-field-field-title {
 	font-color:black;
 	font-weight: 700!important;
 	font-size:21px!important;
@@ -122,7 +122,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 	margin-bottom: 20px;
 }
 
-.view-newsevents .views-field-field-date {
+.view-newsevents .views-field-field-summary {
 	font-color:#2a2a2a;
 	font-weight: 400!important;
 	font-size:14px!important;
