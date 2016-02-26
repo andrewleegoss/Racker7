@@ -92,7 +92,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .view-newsevents .dexp-grid-item {
-	left:10%;
+	left:15%;
 }
 
 .view-newsevents .dexp-grid-item {
@@ -104,19 +104,19 @@ Add your custom css here. Do not touch on style-color-name.css files
     width:325px;
 }
 
-.view-newsevents .views-field-field-rackerdate a:not(.btn):hover{
+.view-newsevents .views-field-field-rackerdate {
 	color:#666;
 	font-weight: 800!important;
 	font-size:18px;
 	margin-bottom: 20px;
 }
 
-.view-newsevents .views-field-field-rackerdate a:(.btn):hover{
+.view-newsevents .views-field-field-rackerdate a:hover{
 	color:#2a2a2a;
 }
 
 
-.view-newsevents .views-field-title a:not(.btn):hover{
+.view-newsevents .views-field-title{
 	font-color:black;
 	font-weight: 700!important;
 	font-size:21px!important;
@@ -124,11 +124,11 @@ Add your custom css here. Do not touch on style-color-name.css files
 	margin-bottom: 20px;
 }
 
-.view-newsevents .views-field-title a:(.btn):hover{
+.view-newsevents .views-field-title a:hover{
 	color:#2a2a2a;
 }
 
-.view-newsevents .views-field-field-summary a:not(.btn):hover{
+.view-newsevents .views-field-field-summary{
 	font-color:#2a2a2a;
 	font-weight: 400!important;
 	font-size:14px!important;
