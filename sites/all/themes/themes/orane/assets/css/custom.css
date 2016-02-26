@@ -77,7 +77,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .free-advice {
 	font-family: Montserrat, Helvetica, Arial, sans-serif; 
-	color: rgb(51, 51, 51); 
+	font-color: white; 
 	font-weight: 200; 
 	font-size: 30px;
 	text-align:center;
@@ -101,13 +101,13 @@ Add your custom css here. Do not touch on style-color-name.css files
     cursor: pointer;
     color: #666;
     text-align: left;
-    width:350px;
+    width:325px;
 }
 
 .view-newsevents .views-field-field-rackerdate {
 	color:#666;
 	font-weight: 800!important;
-	font-size:28px;
+	font-size:18px;
 	margin-bottom: 20px;
 }
 
