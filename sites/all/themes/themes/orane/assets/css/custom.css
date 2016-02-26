@@ -34,6 +34,9 @@ Add your custom css here. Do not touch on style-color-name.css files
 	color:white;
 }
 
+.region-content{width:500px;}
+.region-right-sidebar{width:500px;}
+
 #___gcse_1 {
     position: absolute;
     top: 12px;
