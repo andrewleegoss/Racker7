@@ -78,6 +78,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 .free-advice {
 	font-family: Montserrat, Helvetica, Arial, sans-serif; 
 	font-color: white; 
+	color:white;
 	font-weight: 200; 
 	font-size: 30px;
 	text-align:center;
@@ -104,7 +105,7 @@ Add your custom css here. Do not touch on style-color-name.css files
     width:325px;
 }
 
-.view-newsevents .views-field-field-rackerdate a:not:hover{
+.view-newsevents .views-field-field-rackerdate a:not(.btn):hover{
 	color:#666;
 	font-weight: 800!important;
 	font-size:18px;
@@ -116,7 +117,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 
-.view-newsevents .views-field-title a:not:hover{
+.view-newsevents .views-field-title a:not(.btn):hover{
 	font-color:black;
 	font-weight: 700!important;
 	font-size:21px!important;
@@ -128,11 +129,15 @@ Add your custom css here. Do not touch on style-color-name.css files
 	color:#666;
 }
 
-.view-newsevents .views-field-field-summary a:not:hover{
+.view-newsevents .views-field-field-summary a:not(btn):hover{
 	font-color:#666;
 	font-weight: 400!important;
 	font-size:14px!important;
 	margin-bottom: 20px;
+}
+
+.view-newsevents .views-field-field-summary a:hover{
+	color:#666;
 }
 
 #___gcse_1 {
