@@ -46,7 +46,6 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .view-solutions .col-lg-2 {
     width: 10%;
-    position: center;
  	left: 5%;
 }
 
@@ -59,7 +58,7 @@ Add your custom css here. Do not touch on style-color-name.css files
     color: #4c4c4c;
 }
 
-.view-solutions .views-field-title a:not(.btn):hover{
+.view-solutions .views-field-title a:not(.btn){
 	color: #4c4c4c;
 }
 
