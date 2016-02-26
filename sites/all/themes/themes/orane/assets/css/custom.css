@@ -53,6 +53,20 @@ Add your custom css here. Do not touch on style-color-name.css files
     color: #4c4c4c;
 }
 
+.view-solutions .views-field-title a:not(.btn):hover{
+	color: #4c4c4c;
+}
+
+.view-solutions .field-content{
+	width: 72px;
+}
+
+.view-solutions img{
+	display:block;
+	margin: 0 auto;
+}
+
+
 
 
 #___gcse_1 {
