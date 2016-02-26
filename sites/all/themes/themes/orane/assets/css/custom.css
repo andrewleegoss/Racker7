@@ -46,11 +46,8 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .view-solutions .col-lg-2 {
     width: 10%;
-    position: fixed;
- 	top: 50%;
- 	left: 50%;
-  /* bring your own prefixes */
-  	transform: translate(-50%, -50%);
+    position: center;
+ 	left: 5%;
 }
 
 .view-solutions .views-field-title{
