@@ -47,7 +47,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .view-solutions .col-lg-2 {
     width: 10%;
- 	left: 7.5%;
+ 	left: 10%;
 }
 
 .view-solutions .views-field-title{
@@ -92,12 +92,41 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .view-newsevents .dexp-grid-item {
+	left:20%;
+}
+
+.view-newsevents .dexp-grid-item {
     background-color: #fff;
     padding: 30px;
     cursor: pointer;
     color: #666;
     text-align: left;
     width:350px;
+}
+
+.view-newsevents .views-field-field-date a:not(.btn):hover{
+	color:#666;
+}
+
+.view-newsevents .views-field-field-date {
+	font-color:#666;
+	font-weight: 800!important;
+	margin-bottom: 20px;
+}
+
+.view-newsevents .views-field-field-date {
+	font-color:black;
+	font-weight: 700!important;
+	font-size:21px!important;
+	line-height: 24px!important;
+	margin-bottom: 20px;
+}
+
+.view-newsevents .views-field-field-date {
+	font-color:#2a2a2a;
+	font-weight: 400!important;
+	font-size:14px!important;
+	margin-bottom: 20px;
 }
 
 #___gcse_1 {
