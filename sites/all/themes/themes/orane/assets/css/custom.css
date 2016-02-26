@@ -82,9 +82,23 @@ Add your custom css here. Do not touch on style-color-name.css files
 	font-weight: 200; 
 	font-size: 30px;
 	text-align:center;
-	background: #f2f5f5;
+	background: ##4c4c4c;
 }
 
+.view-newsevents{
+	background: #f2f5f5;
+}
+.news-events:hover {
+    background-color: #666;
+}
+
+.news-events {
+    background-color: #fff;
+    padding: 30px;
+    cursor: pointer;
+    color: #666;
+    text-align: left;
+}
 
 #___gcse_1 {
     position: absolute;
