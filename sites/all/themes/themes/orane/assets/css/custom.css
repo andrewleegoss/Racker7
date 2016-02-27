@@ -146,8 +146,14 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .view-redview .dexp-grid-item {
-	left:15%;
+	left:10%;
 }
+
+.view-redview .col-lg-3 {
+	width: 20%;
+}
+
+
 
 #___gcse_1 {
     position: absolute;
