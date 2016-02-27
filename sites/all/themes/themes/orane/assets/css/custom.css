@@ -45,6 +45,10 @@ Add your custom css here. Do not touch on style-color-name.css files
 	text-align:center;
 }
 
+.view-solutions {
+	margin:10px;
+}
+
 .view-solutions .col-lg-2 {
     width: 10%;
  	left: 10%;
@@ -139,10 +143,11 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .view-redview {
 	background: #c40022;
-	margin: 15%;
 }
 
-
+.view-redview .dexp-grid-item {
+	left:15%;
+}
 
 #___gcse_1 {
     position: absolute;
