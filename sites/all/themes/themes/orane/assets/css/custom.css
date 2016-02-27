@@ -77,6 +77,8 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .view-solutions {    
 	background: #f2f5f5;
+	margin-bottom: 15px;
+	margin-top: 10px;
 }
 
 .free-advice {
@@ -91,6 +93,8 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .view-newsevents {
 	background: #f2f5f5;
+	margin-bottom: 20px;
+	margin-top: 10px;
 }
 .view-newsevents .dexp-grid-item:hover {
     background-color: #c2c2a3;
@@ -153,7 +157,13 @@ Add your custom css here. Do not touch on style-color-name.css files
 	width: 20%;
 }
 
+.region-bottom-first{
+	left:15px;
+}
 
+#section-bottom{
+	background-color: #666;
+}
 
 #___gcse_1 {
     position: absolute;
