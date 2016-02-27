@@ -158,11 +158,11 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .region-bottom-first{
-	left:15px;
+	left:30px;
 }
 
 #section-bottom{
-	background-color: #2E71B3;
+	background-color: #333300;
 	background-image: none;
 }
 
