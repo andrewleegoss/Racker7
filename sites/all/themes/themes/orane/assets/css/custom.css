@@ -137,6 +137,12 @@ Add your custom css here. Do not touch on style-color-name.css files
 	margin-bottom: 20px;
 }
 
+.view-redview {
+	background: #c40022;
+	margin: 15%;
+}
+
+
 
 #___gcse_1 {
     position: absolute;
