@@ -96,6 +96,10 @@ Add your custom css here. Do not touch on style-color-name.css files
 	left:12.5%;
 }
 
+.view-newsevents .view-field {
+	margin-bottom: 20px;
+}
+
 .view-newsevents .dexp-grid-item {
     background-color: #fff;
     padding: 30px;
