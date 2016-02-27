@@ -89,8 +89,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 	background: #f2f5f5;
 }
 .view-newsevents .dexp-grid-item:hover {
-    background-color: #666;
-    font-color: white;
+    background-color: #c2c2a3;
 }
 
 .view-newsevents .dexp-grid-item {
@@ -101,7 +100,6 @@ Add your custom css here. Do not touch on style-color-name.css files
     background-color: #fff;
     padding: 30px;
     cursor: pointer;
-    color: #666;
     text-align: left;
     width:325px;
 }
@@ -114,7 +112,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .view-newsevents .views-field-title a{
-	color:black;
+	color:000000;
 	font-weight: 700!important;
 	font-size:21px!important;
 	line-height: 24px!important;
