@@ -161,12 +161,30 @@ Add your custom css here. Do not touch on style-color-name.css files
 	left:60px;
 }
 
+.region-bottom-third{
+	left:60px;
+}
+
 #section-bottom{
 	background-color: #505050;
 	background-image: none;
 }
 
+.block-views-footerview-block .block-title{
+	color:#fff;
+	font-size: 1.3rem;
+	margin-bottom: 15px;
+}
 
+.block-views-footerview-block .field-content{
+	color:#aaa;
+	font-size:1.3rem;
+}
+
+.block-views-footerview-block .field-content a:hover{
+	color:#aaa;
+	font-size:1.3rem;
+}
 
 
 
