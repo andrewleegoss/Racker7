@@ -162,7 +162,7 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .region-bottom-third{
-	left:60px;
+	left:80px;
 }
 
 #section-bottom{
@@ -176,13 +176,13 @@ Add your custom css here. Do not touch on style-color-name.css files
 	margin-bottom: 15px;
 }
 
-#section-bottom .field-content a:not(.btn):hover{
+.view-footerview .field-content a:not(.btn):hover{
 	color:#aaa;
 	font-size:1.3rem;
 	text-decoration: underline;
 }
 
-#section-bottom .field-content a:not(.btn){
+.view-footerview .field-content a:not(.btn){
 	color:#aaa;
 	font-size:1.3rem;
 }
