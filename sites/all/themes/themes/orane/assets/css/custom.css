@@ -158,11 +158,11 @@ Add your custom css here. Do not touch on style-color-name.css files
 }
 
 .region-bottom-first{
-	left:60px;
+	left:100px;
 }
 
 .region-bottom-third{
-	left:80px;
+	left:100px;
 }
 
 #section-bottom{
@@ -172,8 +172,9 @@ Add your custom css here. Do not touch on style-color-name.css files
 
 .block-views-footerview-block .block-title{
 	color:#fff;
-	font-size: 1.3rem;
+	font-size: 12px;
 	margin-bottom: 15px;
+	font-weight: 400;
 }
 
 .view-footerview .field-content a:not(.btn):hover{
@@ -186,6 +187,35 @@ Add your custom css here. Do not touch on style-color-name.css files
 	color:#aaa;
 	font-size:1.3rem;
 }
+
+
+
+
+
+div {
+    display: block;
+}
+
+.container_12 {
+	    text-align: left;
+}
+
+#basement-wrap {
+	    font-size: 1.2rem;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+    font-size: 1.4rem;
+    color: #505050;
+    text-align: center;
+    line-height: 1.6rem;
+}
+
+
+
 
 
 
