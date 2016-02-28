@@ -176,13 +176,13 @@ Add your custom css here. Do not touch on style-color-name.css files
 	margin-bottom: 15px;
 }
 
-.block-views-footerview-block .field-content a:not(.btn):hover{
+#section-bottom .field-content a:not(.btn):hover{
 	color:#aaa;
 	font-size:1.3rem;
 	text-decoration: underline;
 }
 
-.block-views-footerview-block .field-content a:not(.btn){
+#section-bottom .field-content a:not(.btn){
 	color:#aaa;
 	font-size:1.3rem;
 }
