@@ -197,11 +197,11 @@ div {
 }
 
 .container_12 {
-	    text-align: left;
+    text-align: left;
 }
 
 #basement-wrap {
-	    font-size: 1.2rem;
+	font-size: 1.2rem;
     color: #fff;
     text-transform: uppercase;
 }
@@ -212,6 +212,18 @@ body {
     color: #505050;
     text-align: center;
     line-height: 1.6rem;
+}
+
+.region-select #region.country .flag {
+    background-image: url(https://752f77aa107738c25d93-f083e9a6295a3f0714fa019ffdca65c3.ssl.cf1.rackcdn.com/sprites/global_flags.png);
+    background-repeat: no-repeat;
+    height: 13px;
+    margin: 0!important;
+    width: 20px;
+}
+www.rackspace.com/media="all"
+.unitedstates, .usa {
+    background-position: 0 0;
 }
 
 
