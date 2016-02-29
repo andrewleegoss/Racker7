@@ -203,13 +203,6 @@ Add your custom css here. Do not touch on style-color-name.css files
     text-transform: uppercase;
 }
 
-body {
-    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
-    font-size: 1.4rem;
-    color: #505050;
-    text-align: center;
-    line-height: 1.6rem;
-}
 
 .region-select #region.country .flag {
     background-image: url(https://752f77aa107738c25d93-f083e9a6295a3f0714fa019ffdca65c3.ssl.cf1.rackcdn.com/sprites/global_flags.png);
@@ -218,10 +211,6 @@ body {
     height: 13px;
     margin: 0!important;
     width: 20px;
-}
-www.rackspace.com/media="all"
-.unitedstates, .usa {
-    background-position: 0 0;
 }
 
 
