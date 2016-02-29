@@ -217,6 +217,7 @@ body {
 .region-select #region.country .flag {
     background-image: url(https://752f77aa107738c25d93-f083e9a6295a3f0714fa019ffdca65c3.ssl.cf1.rackcdn.com/sprites/global_flags.png);
     background-repeat: no-repeat;
+    display: inline-block;
     height: 13px;
     margin: 0!important;
     width: 20px;
